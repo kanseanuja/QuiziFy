@@ -23,7 +23,7 @@ QuiziFy is a dynamic Android application designed to challenge your knowledge on
 [WhatsApp Image 2024-07-24 at 13 33 09_d02e128f](https://github.com/user-attachments/assets/0f7466cd-f491-4995-9223-d859eb00f3ba)
 
 ![Result Screen]!
-![WhatsApp Image 2024-07-24 at 13 33 08_e67251c4](https://github.com/user-attachments/assets/9ab567f0-1d81-4359-9f8c-44830ca0e30e)
+[WhatsApp Image 2024-07-24 at 13 33 08_e67251c4](https://github.com/user-attachments/assets/88a97e5a-0ef4-4beb-af45-66430a3c6a59)
 
 ## Getting Started
 ### Prerequisites
